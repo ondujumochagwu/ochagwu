@@ -1,0 +1,336 @@
+.icons{
+    color: #D92626; 
+}
+
+.navbar-brand{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 36px;
+    color: #2c3038;   
+}
+.cici{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    
+}
+
+.cici:hover{
+    background-color: #D92626;
+    color: #fff;
+    border-radius: 50%;
+}
+.headbutt{
+    border: 1px solid  #D92626 !important;
+    padding: 10px 20px 10px 20px !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+}
+.headbutt:hover{
+    background-color: #D92626 !important;
+}
+.backg{
+    background-image: url(images/bannerbg\ edited.jpg);
+    padding-bottom: 60px;
+    /* width: 100%; */
+    /* height: 80vh; */
+}
+.item{
+    color: #fff;
+    font-family: 'DM Sans', sans-serif;
+    padding-top: 5vmin;
+    padding-bottom: 10vmin;
+}
+.boldest{
+    font-size: 7.3vmin;
+    font-weight: 700;
+    line-height: 60px;
+    color: #fff;
+    font-family: 'DM Sans', sans-serif;
+}
+.small-letter{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #eeeeee;
+}
+
+.cool{
+    width: 100%;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border: 0px;
+}
+.firstform{
+    width: 400px;
+    padding: 6vmin;
+    background-color: #fff;
+    border-radius: 5px;
+    /* float: right; */
+}
+.item1{
+  
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.bigbutt{
+    width: 100%;
+    font-size: 18px !important;
+    line-height: 28px;
+    font-weight: 600 !important;
+    background-color: #D92626 !important;
+    border: 0px !important;
+    padding: 13px !important;
+    font-family: 'DM Sans', sans-serif !important;
+}
+.movedown{
+    padding-top: 20vmin;
+}
+.read{
+    font-size: 18px !important;
+    line-height: 28px;
+    background-color: #D92626 !important;
+    padding: 13px 35px 13px 35px !important;
+    border: 0px !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 600 !important;
+}
+.read:hover{
+    background-color: #b41414 !important;
+}
+.computer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.myh2{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600; 
+    font-size: 38px;
+    line-height: 46px;
+    color: #2c3038;
+}
+.small-letter2{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #696969;
+}
+.movedown2{
+    padding-top: 15vmin;
+    padding-bottom: 10vmin;
+}
+
+.graycolor{
+    background-color: #f7f7f7;
+}
+
+
+
+
+
+
+.submenu{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.submenu:hover{
+    color: #D92626;
+}
+.middle{
+    text-align: center;
+}
+.fill-in{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 30px;
+    margin-bottom: 25px;
+}
+.arrowbut{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 26px;
+    text-decoration: none;
+    color: #2c3038;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.arrowbut:hover{
+    color: #D92626;
+}
+
+
+
+
+
+
+.submenu2{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 7vmin;
+    line-height: 60px;
+    color: #2c3038;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+.fill-in2{
+    padding: 5px;
+    margin-bottom: 10vmin;
+}
+.icon-to-side{
+    float: left;
+    padding-bottom: 250px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+.list{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #2c3038;
+}
+
+
+
+
+
+
+.card{
+    border: 0px !important;
+    border-radius: 5px !important;
+}
+
+.person-name{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2c3038;
+}
+
+
+
+
+
+.car-background{
+    background-image: url(images/black\ car-edited.jpg);
+    width: 100%;
+    height: 75vmin;
+    text-align: center;
+}
+.great-car{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 30px;
+    color: #eeeeee;
+}
+.black-car-h2{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 7vmin;
+    line-height: 8vmin;
+    color: #ffff;
+    padding-bottom: 20px;
+}
+.get-started{
+    font-size: 18px !important;
+    line-height: 28px;
+    background-color: #ffff !important;
+    color: #D92626 !important;
+    padding: 13px 35px 13px 35px !important;
+    border: 0px !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 600 !important;
+}
+.get-started:hover{
+    color: #000 !important;
+}
+
+
+
+
+
+
+.get-started2{
+    font-size: 18px !important;
+    line-height: 28px;
+    background-color: #ffff !important;
+    color: #D92626 !important;
+    padding: 13px 35px 13px 35px !important;
+    border: 1px solid #D92626 !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 600 !important;
+}
+
+
+
+
+
+
+
+.put-colour{
+    background-color: #D92626;
+}
+.subscribe-butt{
+    font-size: 18px !important;
+    line-height: 28px;
+    background-color: #000 !important;
+    padding: 13px 35px 13px 35px !important;
+    border: 0px !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 600 !important;
+    border-radius: 0px 5px 5px 0px !important;
+}
+.enter-email{
+    width: 100%;
+    border-radius: 5px 0px 0px 5px !important;
+}
+.movedown3{
+    padding-top: 8vmin;
+    /* padding-bottom: 5vmin; */
+}
+
+
+
+
+
+footer{
+    background-color: #212020;
+}
+.copyright{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #696969;
+}
+.footer{
+    color: #999999;
+}
+.new{
+    margin-right: 10px;
+}
